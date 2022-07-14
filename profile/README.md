@@ -1,6 +1,6 @@
-# Camroku
+# Camroku.TECH
 ## Contact
-<img src="https://avatars.githubusercontent.com/u/79412062" align="right" width="150px" />
+<img src="https://avatars.githubusercontent.com/u/109251625" align="right" width="150px" />
 
-* [Camroku.TECH](https://camroku.tech)
+* [Camroku.TECH Website](https://camroku.tech)
 * [Email](mailto:cinaryilmaz.gnu@gmail.com)
