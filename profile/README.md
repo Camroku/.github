@@ -18,6 +18,9 @@ GuLang is a simple esolang written in C.
 ### [Toryus](https://github.com/Camroku/Toryus)
 Toryus is an OS project written in C. It is based on Arus, which is based on Ember, which is written by Arnolxu (founder of Camroku.TECH), and Arus's code is also written by Arnolxu (See [History](https://github.com/Camroku/Toryus#history)), so it's technically not based on anything since all of its code (at least until the creation of Toryus) by the same person.
 
+### [RuyLang](https://github.com/Camroku/Ruylang)
+RuyLang is another programming language made by Camroku.TECH in C. Its goal is to replace QoLang.
+
 ## Contact
 <img src="https://avatars.githubusercontent.com/u/109251625" align="right" width="150px" />
 
