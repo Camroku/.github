@@ -21,6 +21,9 @@ Toryus is an OS project written in C. It is based on Arus, which is based on Emb
 ### [RuyLang](https://github.com/Camroku/Ruylang)
 RuyLang is another programming language made by Camroku.TECH in C. Its goal is to replace QoLang.
 
+### [wdcd](https://github.com/Camroku/wdcd)
+what da code doin'?<br/>
+A code viewer for web, written in Python with Flask framework.
 ## Contact
 <img src="https://avatars.githubusercontent.com/u/109251625" align="right" width="150px" />
 
