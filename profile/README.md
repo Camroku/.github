@@ -1,3 +1,6 @@
+# Important
+This project officially died on 14.01.2023. Our plans are currently unknown. We'll most likely continue developing some important projects, but the unknown part is how we'll do it. We might create a new project, continue with Camroku.TECH, move our software projects under another project, or anything. So join [our Discord server](https://discord.gg/7qnUz5KUdD) to follow any new activity.
+
 # Camroku.TECH
 ## Our Projects
 ### [QoLang](https://github.com/QoLang)
